@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **vinaybembalge@gmail.com** For Collaboration/Project or An
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v.nay_2801) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v.nay_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaybembalge) [! [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinay_bembalge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaybembalge@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v.nay_2801) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v.nay_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaybembalge)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinay_bembalge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaybembalge@gmail.com) 
 
 
 
