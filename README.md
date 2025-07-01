@@ -55,7 +55,7 @@ Email Me 👉 ✉️ **vinaybembalge@gmail.com** For Collaboration/Project or An
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
