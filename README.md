@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vinay Bembalge
-**A passionate Data Engineer || Data Analyst || Business Analyst**
+**A passionate Data Engineer || Data Scientist || Data Analyst || Product Analyst**
 
 Email Me 👉 ✉️ **vinaybembalge@gmail.com** For Collaboration/Project or Anything Else. 
 
